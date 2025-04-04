@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1743728273 source:c:\users\andrei lucas\desktop\estrutura-de-dados\ex02\main.c
+	<stdio.h>
+	<stdlib.h>
+
